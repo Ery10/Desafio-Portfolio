@@ -4,7 +4,7 @@
 
 > Desafio
 
-Desafio constuído no discover da Rocketseat.
+Desafio construído no discover da Rocketseat.
 
 [🔗Clique aqui para acessar](https://ery10.github.io/Desafio-Portfolio/)
 

@@ -1,8 +1,8 @@
-# Desafio Rocketseat
+# 💻 Desafio Rocketseat
 
 ![preview](./github/preview.png)
 
-> Desafio
+> Sobre o desafio "Portfolio"
 
 Desafio construído no discover da Rocketseat.
 

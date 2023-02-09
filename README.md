@@ -1,14 +1,16 @@
-# 💻 Desafio Rocketseat
+# 💻 Portfolio
 
-![preview](./github/preview.png)
+## [🔗 Clique aqui para acessar o desafio](https://efficient-sloth-d85.notion.site/Desafio-Portfolio-1d3db21e654941f5872aece5fcc6bcc6) 
+![desafio](./github/desafio.png)
 
-> Sobre o desafio "Portfolio"
+> Desafio Discover
 
-Desafio construído no discover da Rocketseat.
+Desafio idealizado no discover da Rocketseat, fazendo um portfolio.
 
-[🔗Clique aqui para acessar](https://ery10.github.io/Desafio-Portfolio/)
 
-##  🛠 Tecnologias
+[🔗 Clique aqui para acessar o desafio realizado](https://ery10.github.io/Desafio-Portfolio/)
+
+## 🛠 Tecnologias
 
 - HTML
 - CSS
